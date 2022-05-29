@@ -5,7 +5,8 @@
 Here are some ideas to get you started:
 
 # 💫About Me :
-🔭 I'm  currently working on Flutter and Dart. 
+
+<p>🔭 I'm  currently working on Flutter and Dart.</p> 
 🌱 I'm currently learning Machine learning in Flutter. 
 👯 I'm looking to collaborate on BlockChain.
 💬 Ask me about App development. 
