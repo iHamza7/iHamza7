@@ -6,13 +6,13 @@ Here are some ideas to get you started:
 
 # 💫About Me :
 
-<p>🔭 I'm  currently working on Flutter and Dart.</p> 
-🌱 I'm currently learning Machine learning in Flutter. 
-👯 I'm looking to collaborate on BlockChain.
-💬 Ask me about App development. 
-📫 How to reach me: Twitter @HamzAzamkhan
-😄 Pronouns: He/His ..
-⚡ Fun fact: listen to songs more then typing Code.
+<div>🔭 I'm  currently working on Flutter and Dart.</div>
+<div>🌱 I'm currently learning Machine learning in Flutter.</div>
+<div>👯 I'm looking to collaborate on BlockChain.</div>
+<div>💬 Ask me about App development.</div> 
+<div>📫 How to reach me: Twitter @HamzAzamkhan </div>
+<div>😄 Pronouns: He/His .. </div>
+<div>⚡ Fun fact: listen to songs more then typing Code.</div>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamza_azam_khan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadhamzakhan) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HamzAzamkhan) 
