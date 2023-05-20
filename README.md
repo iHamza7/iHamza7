@@ -2,7 +2,7 @@
 
 <!-- **iHamza7/iHamza7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+
 
 # 💫About Me :
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <div>👯 I'm looking to collaborate on BlockChain.</div>
 <div>💬 Ask me about App development.</div> 
 <div>📫 How to reach me: Twitter @HamzAzamkhan </div>
-<div>😄 Pronouns: He/His .. </div>
+<div>😄 Pronouns: he/him .. </div>
 <div>⚡ Fun fact: listen to songs more then typing Code.</div>
 
 ## 🌐Socials
