@@ -1,7 +1,7 @@
 ### Hi there I am Muhammad Hamza Khan 👋
 
 # 💫 About Me:
-🔭 I'm currently working on Flutter and Dart.<br>🌱 I'm currently learning Node.Js.<br>👯 I'm looking to collaborate on BlockChain.<br>💬 Ask me about App development.<br>📫 How to reach me: Twitter @ibn_e_azam<br>😄 Pronouns: he/him ..<br>⚡ Fun fact: listen to songs more then typing Code.
+🔭 I'm currently working on Flutter and NodeJs.<br>🌱 I'm currently learning JAVA.<br>👯 I'm looking to collaborate on JAVA.<br>💬 Ask me about App development.<br>📫 How to reach me: Twitter @ibn_e_azam<br>😄 Pronouns: he/him ..<br>⚡ Fun fact: listen to songs more then typing Code.
 
 
 ## 🌐 Socials:
